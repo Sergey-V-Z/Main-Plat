@@ -1,0 +1,16 @@
+.\main\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+.\main\tasks.o: D:\Radio\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\main\tasks.o: D:\Radio\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\main\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+.\main\tasks.o: D:\Radio\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\main\tasks.o: D:\Radio\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\main\tasks.o: ../Inc/FreeRTOSConfig.h
+.\main\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+.\main\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+.\main\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+.\main\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+.\main\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+.\main\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+.\main\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+.\main\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+.\main\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h
